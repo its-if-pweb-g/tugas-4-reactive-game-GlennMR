@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import { Box } from "./component/Box";
+import { Box } from "./components/Box";
 import { Board } from "./components/Board";
 import { ResetButton } from "./components/ResetButton";
 import { ScoreBoard } from "./components/ScoreBoard";
